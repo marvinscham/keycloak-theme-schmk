@@ -20,6 +20,7 @@
   ~ 02110-1301 USA, or see the FSF site: http://www.fsf.org.
   -->
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+ 
 <html>
 <head>
     <title>Willkommen bei ${productNameFull}</title>
